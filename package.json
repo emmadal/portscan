@@ -1,0 +1,19 @@
+{
+  "name": "portscan",
+  "version": "1.0.0",
+  "description": "a small Port Scanner written in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmadal/portscan.git"
+  },
+  "author": "emmadal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmadal/portscan/issues"
+  },
+  "homepage": "https://github.com/emmadal/portscan#readme"
+}
