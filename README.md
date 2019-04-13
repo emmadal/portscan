@@ -24,11 +24,11 @@ then run this command below:
 
 ## Ports
 
-**rangeport correspond to the number of port to scan 
+**rangeport correspond to the number of port to scan**
 
 in the computer we have 65535 ports, the number of port given in the parametre will be a array of range staring at 1 to the end
 
-**for example
+**for example**
 
 rangeport  = 3000 => [1 - 3000]
 rangeport  = 200 => [1 - 200]
