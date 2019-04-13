@@ -1,4 +1,6 @@
 #!/usr/bin/env node
 
-let PortScan = require('../lib/portscan.js');
-PortScan.portscan(...process.argv.splice(2)) //delete the first two elements in the arrays
+const { portscan } = require('../lib/portscan.js')
+
+//delete the first two elements in the arrays
+portscan(...process.argv.slice(2))
