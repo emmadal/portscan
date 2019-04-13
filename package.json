@@ -1,5 +1,5 @@
 {
-  "name": "portscan",
+  "name": "@emmadal/portscan",
   "version": "1.0.0",
   "description": "a small Port Scanner written in Javascript",
   "main": "./lib/portscan.js",
