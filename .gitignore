@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+# test files
+lib/test.js
+bin/index.js.swp
