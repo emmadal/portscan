@@ -9,13 +9,13 @@ it's very simple :
 Install the package globally via `npm` or `yarn`
 
 ```js
-npm i -g @emmadal/porstcan 
+npm i -g @emmadal/portscan 
 ```
 
 or 
 
 ```js
-yarn global add @emmadal/porstcan
+yarn global add @emmadal/portscan
 ```
 
 then run this command below:
